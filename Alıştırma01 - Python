@@ -1,0 +1,8 @@
+import random
+
+Print(" Selam, bu GitHub'da yaptığım ilk proje. Haberiniz olsun; bu proje deneme amaçlıdır. (: ")
+Print(" Bu proje bu kadar. Görüşmek üzere... (: ")
+Print(" ")
+time.sleep(3)
+Print(" ")
+Print(" Hala burada mısınız? O zaman sohbete şu kodu yazın : 91735. Başlığı bu şekilde olan projedeki kodların işe yarayacağını düşünüyorum. BayBay. (: ")
